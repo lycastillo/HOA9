@@ -1,0 +1,5 @@
+[ubuntu_promotheus]
+10.0.2.16
+
+[centos_promotheus]
+10.0.2.15 
