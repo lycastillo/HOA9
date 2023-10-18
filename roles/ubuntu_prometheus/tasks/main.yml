@@ -13,6 +13,6 @@
 
   - name: Apache Start/Enable Check
     service:
-      name: prometheus
+      name: apache
       state: restarted
       enabled: true
